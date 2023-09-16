@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aplikasi Profile</string>
+    <string name="Profile_Saya">Profile Saya</string>
+    <string name="my_image">My Image</string>
+    <string name="nama">Anugrah Gilang Ramadhan</string>
+    <string name="nim">223307035</string>
+    <string name="alamat">JL.Cempaka no.11A Kel Oro-Oro Ombo Kec Kartoharjo Kota Madiun Jawa Timur</string>
+    <string name="riwayat_pendidikan">Lulusan SMA N 6 Madiun, SMP N 6 Madiun SDN Oro-Oro Ombo</string>
+</resources>
